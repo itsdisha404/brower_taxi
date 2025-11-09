@@ -1,4 +1,4 @@
-# 🤖 BrowserAuto - Multi-Agent Computer Control System#
+# 🤖 BrowserAuto - Multi-Agent Computer Control System
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/8863b99f-0f31-4f14-9122-7565353ea0ee" />
 
 
