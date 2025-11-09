@@ -1,5 +1,6 @@
 # 🤖 BrowserAuto - Multi-Agent Computer Control System# 🤖 BrowserAuto - Multi-Agent Computer Control System# Alice & Bob Multi-Agent Chat System
 
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/bfe8f318-d8f7-45d6-813a-e2a642ed5d8a" />
 
 
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
